@@ -1,7 +1,7 @@
 ## Seed code - Boilerplate
 
 ### Instructions
-Refer the problem.md file for problem description. 
+Refer the [PROBLEM.md](PROBLEM.md) file for problem description. 
 
 #### To use this as a boilerplate for your assignment, please follow these steps
 
@@ -9,9 +9,9 @@ Refer the problem.md file for problem description.
 
 2. **CLONE** the forked repository, containing the boilerplate in your local machine
      
-3. Navigate to exercise-bt-loops-foreach folder
+3. Navigate to exercise-number-array-average folder
 
-    `cd exercise-bt-loops-foreach`
+    `cd exercise-number-array-average`
 
 4. Check the status of your repository
 
